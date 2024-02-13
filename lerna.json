@@ -46,6 +46,6 @@
     },
     "cacheDir": ".changelog"
   },
-  "npmClient": "npm",
+  "npmClient": "pnpm",
   "version": "3.14.11"
 }
