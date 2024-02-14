@@ -68,7 +68,6 @@
   "workspaces": [
     "packages/*",
     "packages-serverless/*",
-    "packages-legacy/*",
     "packages-resource/*"
   ]
 }

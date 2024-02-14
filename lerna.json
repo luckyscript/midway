@@ -1,10 +1,4 @@
 {
-  "packages": [
-    "packages/*",
-    "packages-serverless/*",
-    "packages-legacy/*",
-    "packages-resource/*"
-  ],
   "command": {
     "bootstrap": {
       "hoist": true,
